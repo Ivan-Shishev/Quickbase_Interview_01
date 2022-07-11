@@ -1,0 +1,17 @@
+C:\Projects\2022_Work\Quickbase\Quickbase_Interview_01\Quickbase_Interview_01\bin\Debug\net6.0\Quickbase_Interview_01.exe
+C:\Projects\2022_Work\Quickbase\Quickbase_Interview_01\Quickbase_Interview_01\bin\Debug\net6.0\Quickbase_Interview_01.deps.json
+C:\Projects\2022_Work\Quickbase\Quickbase_Interview_01\Quickbase_Interview_01\bin\Debug\net6.0\Quickbase_Interview_01.runtimeconfig.json
+C:\Projects\2022_Work\Quickbase\Quickbase_Interview_01\Quickbase_Interview_01\bin\Debug\net6.0\Quickbase_Interview_01.dll
+C:\Projects\2022_Work\Quickbase\Quickbase_Interview_01\Quickbase_Interview_01\bin\Debug\net6.0\Quickbase_Interview_01.pdb
+C:\Projects\2022_Work\Quickbase\Quickbase_Interview_01\Quickbase_Interview_01\obj\Debug\net6.0\Quickbase_Interview_01.csproj.AssemblyReference.cache
+C:\Projects\2022_Work\Quickbase\Quickbase_Interview_01\Quickbase_Interview_01\obj\Debug\net6.0\Quickbase_Interview_01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\2022_Work\Quickbase\Quickbase_Interview_01\Quickbase_Interview_01\obj\Debug\net6.0\Quickbase_Interview_01.AssemblyInfoInputs.cache
+C:\Projects\2022_Work\Quickbase\Quickbase_Interview_01\Quickbase_Interview_01\obj\Debug\net6.0\Quickbase_Interview_01.AssemblyInfo.cs
+C:\Projects\2022_Work\Quickbase\Quickbase_Interview_01\Quickbase_Interview_01\obj\Debug\net6.0\Quickbase_Interview_01.csproj.CoreCompileInputs.cache
+C:\Projects\2022_Work\Quickbase\Quickbase_Interview_01\Quickbase_Interview_01\obj\Debug\net6.0\Quickbase_Interview_01.dll
+C:\Projects\2022_Work\Quickbase\Quickbase_Interview_01\Quickbase_Interview_01\obj\Debug\net6.0\refint\Quickbase_Interview_01.dll
+C:\Projects\2022_Work\Quickbase\Quickbase_Interview_01\Quickbase_Interview_01\obj\Debug\net6.0\Quickbase_Interview_01.pdb
+C:\Projects\2022_Work\Quickbase\Quickbase_Interview_01\Quickbase_Interview_01\obj\Debug\net6.0\Quickbase_Interview_01.genruntimeconfig.cache
+C:\Projects\2022_Work\Quickbase\Quickbase_Interview_01\Quickbase_Interview_01\obj\Debug\net6.0\ref\Quickbase_Interview_01.dll
+C:\Projects\2022_Work\Quickbase\Quickbase_Interview_01\Quickbase_Interview_01\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Projects\2022_Work\Quickbase\Quickbase_Interview_01\Quickbase_Interview_01\obj\Debug\net6.0\Quickbase_Interview_01.csproj.CopyComplete
